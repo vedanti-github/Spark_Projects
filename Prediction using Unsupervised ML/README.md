@@ -19,4 +19,4 @@ represent it visually.<br>
 <a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br>
 
 > Solution:
-<a href="https://github.com/vedanti-github/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
+<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Prediction%20using%20Unsupervised%20ML/Task_2.ipynb"> Prediction using UnSupervised ML</a>
