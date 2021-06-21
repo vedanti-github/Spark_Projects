@@ -5,7 +5,7 @@
 
 # Email: vedantiekre@gmail.com
 
-## Task 5 : Exploratory Data Analysis
+## Task 3 : Exploratory Data Analysis
 ___
 ## GRIP @ The Sparks Foundation
 ____
