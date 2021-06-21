@@ -5,7 +5,7 @@
 
 # Email: vedantiekre@gmail.com
 
-## Task 3 : Prediction using Decision Tree Algorithm
+## Task 6 : Prediction using Decision Tree Algorithm
 ___
 ## GRIP @ The Sparks Foundation
 ____
