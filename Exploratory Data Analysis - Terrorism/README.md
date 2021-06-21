@@ -23,4 +23,4 @@ ____
 <a href="https://bit.ly/2TK5Xn5">Dataset.csv</a><br>
 
 > Solution:
-<a href="https://github.com/vedanti-github/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Terrorism/Exploratory%20Data%20Analysis%20-%20Terrorism.ipynb">Exploratory Data Analysis - Terrorism</a>
+<a href="https://github.com/vedanti-github/Spark_Projects/blob/main/Exploratory%20Data%20Analysis%20-%20Terrorism/Task_5.ipynb">Exploratory Data Analysis - Terrorism</a>
